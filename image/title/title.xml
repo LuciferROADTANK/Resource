@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9f5e83e3689bbebd6f6c3c2b4aeaba9e:aa1d2f4980b88b0c77c2ee80f07d5de7:e1c712f502c00001b22330023180adaa$ -->
+<!--Format:
+n  => name of the SubTexture
+x  => SubTexture x pos in texture
+y  => SubTexture y pos in texture
+w  => SubTexture width (may be trimmed)
+h  => SubTexture height (may be trimmed)
+pX => x pos of the pivot point (relative to SubTexture width)
+pY => y pos of the pivot point (relative to SubTexture height)
+oX => SubTexture's x-corner offset (only available if trimmed)
+oY => SubTexture's y-corner offset (only available if trimmed)
+oW => SubTexture's original width (only available if trimmed)
+oH => SubTexture's original height (only available if trimmed)
+r => 'y' only set if SubTexture is rotated
+with polygon mode enabled:
+vertices   => points in SubTexture coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => SubTexture triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="title" width="2048" height="1024">
+    <SubTexture name="image_title_1001" x="592" y="156" width="127" height="65" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1002" x="719" y="156" width="115" height="65" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1003" x="1097" y="156" width="132" height="65" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1004" x="198" y="0" width="133" height="33" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1005" x="458" y="0" width="127" height="33" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1006" x="331" y="0" width="127" height="33" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1007" x="0" y="0" width="118" height="25" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1008" x="834" y="156" width="118" height="65" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1009" x="952" y="156" width="145" height="65" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1011" x="1907" y="97" width="136" height="59" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1012" x="288" y="156" width="157" height="59" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1013" x="1746" y="97" width="161" height="59" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1014" x="445" y="156" width="147" height="59" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1015" x="1725" y="0" width="135" height="45" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1017" x="585" y="0" width="116" height="35" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1018" x="701" y="0" width="128" height="38" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1019" x="126" y="156" width="162" height="59" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1020" x="118" y="0" width="80" height="27" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1022" x="0" y="156" width="126" height="59" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1035" x="1261" y="46" width="151" height="50" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1061" x="1860" y="0" width="160" height="46" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1068" x="148" y="46" width="138" height="47" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1069" x="406" y="46" width="139" height="48" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1079" x="1458" y="97" width="160" height="58" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1080" x="1486" y="156" width="165" height="66" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1081" x="454" y="97" width="157" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1082" x="297" y="97" width="157" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1083" x="611" y="97" width="159" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1084" x="0" y="46" width="148" height="46" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1085" x="770" y="97" width="157" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1086" x="140" y="97" width="157" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1087" x="1687" y="46" width="157" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1088" x="286" y="46" width="120" height="48" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1094" x="829" y="46" width="144" height="49" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1095" x="1117" y="46" width="144" height="49" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1096" x="973" y="46" width="144" height="49" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1097" x="419" y="313" width="156" height="94" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1098" x="887" y="313" width="156" height="95" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1099" x="1193" y="313" width="156" height="96" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1100" x="1349" y="313" width="156" height="96" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1101" x="263" y="313" width="156" height="94" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1102" x="575" y="313" width="156" height="94" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_1103" x="731" y="313" width="156" height="95" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2000" x="1363" y="156" width="123" height="65" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2001" x="1229" y="156" width="134" height="65" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2004" x="1412" y="46" width="135" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2010" x="1360" y="0" width="116" height="41" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2011" x="1607" y="0" width="118" height="44" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2012" x="1112" y="0" width="121" height="38" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2014" x="927" y="97" width="152" height="52" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2015" x="545" y="46" width="144" height="48" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2016" x="689" y="46" width="140" height="48" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2017" x="1547" y="46" width="140" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2018" x="0" y="97" width="140" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2019" x="1844" y="46" width="140" height="51" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2035" x="0" y="226" width="119" height="70" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2036" x="1911" y="156" width="119" height="70" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2037" x="267" y="226" width="119" height="70" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2038" x="119" y="226" width="148" height="70" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2039" x="1233" y="0" width="127" height="39" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2046" x="1476" y="0" width="131" height="44" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2047" x="1294" y="97" width="164" height="55" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_2048" x="979" y="0" width="133" height="38" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_3000" x="0" y="313" width="118" height="88" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_3001" x="1618" y="97" width="128" height="58" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4000" x="150" y="415" width="165" height="109" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4001" x="935" y="415" width="125" height="132" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4002" x="681" y="226" width="130" height="76" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4003" x="0" y="415" width="150" height="108" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4004" x="1043" y="313" width="150" height="95" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4005" x="118" y="313" width="145" height="91" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4006" x="1079" y="97" width="215" height="54" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4007" x="1661" y="226" width="150" height="84" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4008" x="1505" y="313" width="179" height="99" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4009" x="829" y="0" width="150" height="38" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4010" x="315" y="415" width="130" height="109" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4011" x="1101" y="226" width="130" height="79" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4012" x="1651" y="156" width="130" height="67" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4013" x="1781" y="156" width="130" height="69" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4014" x="755" y="415" width="180" height="119" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4015" x="575" y="415" width="180" height="118" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4016" x="445" y="415" width="130" height="112" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4017" x="1811" y="226" width="150" height="87" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4018" x="531" y="226" width="150" height="73" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4019" x="1684" y="313" width="185" height="99" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4020" x="1869" y="313" width="145" height="102" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4021" x="386" y="226" width="145" height="72" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4022" x="1231" y="226" width="150" height="79" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4023" x="811" y="226" width="145" height="77" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4024" x="1381" y="226" width="145" height="80" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4025" x="956" y="226" width="145" height="77" pX="0.5" pY="0.5"/>
+    <SubTexture name="image_title_4026" x="1526" y="226" width="135" height="80" pX="0.5" pY="0.5"/>
+</TextureAtlas>

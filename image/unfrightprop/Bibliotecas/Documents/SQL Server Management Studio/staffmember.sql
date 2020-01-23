@@ -1,0 +1,1 @@
+update sys_users_detail set IsStaffMember = 1 where username = 'arteck'

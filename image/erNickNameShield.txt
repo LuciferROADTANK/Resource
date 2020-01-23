@@ -1,0 +1,46 @@
+<!--
+	top.location="http://apps1.walker-games.com/?fp=SjFFlr4%2BFz3JgjSY3d5M5wEZ72iwWD6GMm%2FwjH5A3snyOKUZfBqNPJ62l4FGKv6Z87tZv4M5cRUTK0oKfBvHrw%3D%3D&prvtof=IbSgm%2BVSYgAPx7ww66EKg5WwgWO8tXleB4%2FjQ8NIxXY%3D&poru=JyiPbt1eKEaf6C9hHqwthURh6%2FvDVpExBE5hjhpHEOzrdatRkanJhTCUwuGZlzFr2dH9e302qLWE9knILMLKPq5LlpDHhbJHvnvpCCPVNr0%3D&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_oJc/S/1sMeAP1uSdw0mt1/DnwyUv0S1W0nBx3JHXgU5boBOEiIBlIwrEm0YAJYf+doCxbCnp874z3pTNj+1EgA=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://apps1.walker-games.com/?fp=SjFFlr4%2BFz3JgjSY3d5M5wEZ72iwWD6GMm%2FwjH5A3snyOKUZfBqNPJ62l4FGKv6Z87tZv4M5cRUTK0oKfBvHrw%3D%3D&prvtof=MCaCRuCZZyDXsO%2BF1x5bRof3QbR6UFCIBdVke9wLgPY%3D&poru=7BrjHvgvfF1IKvlIGjGK6bUE%2FN485TLhM1pILaQzIPz8uXPy9xFY1GGW%2FOtpcvoRcX8wrll67cyR27RW8Jsj166Gnq0qvrnha1rOz4z%2FU88%3D&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><script type='text/javascript'>try{document.cookie = 'isframesetenabled=1';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://apps1.walker-games.com/?fp=SjFFlr4%2BFz3JgjSY3d5M5wEZ72iwWD6GMm%2FwjH5A3snyOKUZfBqNPJ62l4FGKv6Z87tZv4M5cRUTK0oKfBvHrw%3D%3D&prvtof=1zJcN860Rfu2tmFVWdcM5pQPC88DfSp%2BhKvQtaTdKco%3D&poru=fkH3NB3aCRm33dpIxEanoDz4A%2Bf07YZGiiqdNEkTJX51jXR7MevPmdQGBMcfFUmK09eP%2FFvV1U4DVdW50QxF72RjajsbcboWhocOpsJyp48%3D&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://apps1.walker-games.com/?fp=SjFFlr4%2BFz3JgjSY3d5M5wEZ72iwWD6GMm%2FwjH5A3snyOKUZfBqNPJ62l4FGKv6Z87tZv4M5cRUTK0oKfBvHrw%3D%3D&prvtof=JBwrAyIqPm8Yk58k4gCukND3BR9kDBy8N6zL7qyYTQc%3D&poru=qWI3mzERGOkvfoIPpdEeIE%2FshrU%2FEHN5e5nsMHm%2Bspl03MwD4qb4tyPhRjc7yZrm%2BtvLtcLQWyhG5rwfPMUH8OG2ocSLsS4SR%2Fu7qrUZcwI%3D&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->
